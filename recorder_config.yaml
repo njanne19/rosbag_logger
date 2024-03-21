@@ -1,0 +1,4 @@
+topics: 
+  - /camera/color/image_raw 
+  - /camera/depth/image_rect_raw
+  - /camera/color/camera_info
